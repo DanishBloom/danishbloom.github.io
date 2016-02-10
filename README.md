@@ -1,3 +1,3 @@
 Hey there!
-This is my github profile page: https://github.com/DanishBloom
-Feel free to keep me in track
+<br/>This is my github profile page: https://github.com/DanishBloom
+<br/>Feel free to follow me =)
